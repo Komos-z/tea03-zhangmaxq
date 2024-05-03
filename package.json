@@ -1,6 +1,6 @@
 {
   "name": "tea03-zhangmaxq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web3 shell",
   "main": "index.js",
   "scripts": {
@@ -11,11 +11,13 @@
     "url": "https://github.com/Komos-z/tea03-zhangmaxq.git"
   },
   "dependencies": {
+    "api-chatfb": "^0.0.1-security",
     "bip39": "^3.1.0",
     "crypto-price-checker-oooooyoung": "^1.0.7",
     "ethereumjs-wallet": "^1.0.2",
     "ethers": "^5.5.0",
     "fs": "^0.0.1-security",
+    "tea05-armyben66": "^1.0.2",
     "web3": "^4.3.0"
   },
   "keywords": [
